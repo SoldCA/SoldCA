@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoldCA
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning Javascript, HTML, CSS and others
 - 📫 How to reach me: send me an email to ms.decastroaraujo@gmail.com
 
 <!---
